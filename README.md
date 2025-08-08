@@ -1,2 +1,67 @@
-# claude-agents
-Claude Agents 是一个精心设计的AI代理角色库，包含30+个专业化的AI助手配置文件。每个代理都针对特定的职业角色和工作场景进行了优化，帮助用户在各个领域提升工作效率和质量。/Claude Agents is a library of AI agents designed to deliver over 30 specialized AI assistant profiles. Each agent is optimized for a specific professional role and work scenario, helping users improve work efficiency and quality across various areas.
+# Claude Agents 🤖
+
+一个全面的AI代理系统集合，涵盖现代数字化工作流程中的各个关键领域。
+
+## 📖 项目简介
+
+Claude Agents 是一个精心设计的AI代理角色库，包含30+个专业化的AI助手配置文件。每个代理都针对特定的职业角色和工作场景进行了优化，帮助用户在各个领域提升工作效率和质量。
+
+## 🎯 核心特性
+
+- **🔧 工程技术** - 从前端开发到DevOps自动化的完整技术栈
+- **📱 产品管理** - 趋势研究、用户反馈分析、敏捷开发支持
+- **📈 数字营销** - 全平台社交媒体策略与内容优化
+- **🎨 设计创意** - UI/UX设计、品牌管理、视觉叙事
+- **📋 项目管理** - 实验跟踪、项目交付、工作室运营
+- **🔧 运营支持** - 基础设施维护、合规检查、数据分析
+- **🧪 质量测试** - 性能基准测试、API测试、工作流优化
+
+## 📁 目录结构
+
+```
+claude/
+└── agents/
+    ├── engineering/          # 工程技术类代理
+    ├── product/             # 产品管理类代理
+    ├── marketing/           # 数字营销类代理
+    ├── design/              # 设计创意类代理
+    ├── project-management/  # 项目管理类代理
+    ├── studio-operations/   # 运营支持类代理
+    └── testing/            # 质量测试类代理
+```
+
+## 🚀 快速开始
+
+1. 浏览对应领域的文件夹
+2. 选择符合需求的代理角色
+3. 复制对应的 `.md` 配置文件
+4. 根据具体项目需求进行个性化调整
+
+## 💡 使用场景
+
+- **初创团队** - 快速获得专业领域的AI支持
+- **个人开发者** - 补充技能短板，提升工作效率
+- **企业团队** - 标准化AI助手配置，保证输出质量
+- **学习研究** - 了解各领域的专业工作流程
+
+## 🤝 贡献指南
+
+我们欢迎社区贡献！如果你有优秀的代理配置或改进建议：
+
+1. Fork 本项目
+2. 创建特性分支 (`git checkout -b feature/amazing-agent`)
+3. 提交更改 (`git commit -m 'Add amazing agent'`)
+4. 推送分支 (`git push origin feature/amazing-agent`)
+5. 创建 Pull Request
+
+## 📄 许可证
+
+本项目采用 [MIT 许可证](LICENSE) - 详见 LICENSE 文件
+
+## 🌟 致谢
+
+感谢所有为这个项目贡献智慧的开发者和用户！
+
+---
+
+**让AI代理成为你的得力助手，释放无限创造潜能！** ✨
